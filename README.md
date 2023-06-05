@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/mamun-sec) ![status](https://img.shields.io/badge/status-up-brightgreen)
+![](https://komarev.com/ghpvc/?username=mamun-sec&color=blue&label=Total+Recent+Views) ![status](https://img.shields.io/badge/status-up-brightgreen)
 <h1>:white_square_button: DFIRT (DFIR Tool)</h1>
 <h4>Collect information of Windows PC when doing incident response.</h4>
 <br>
